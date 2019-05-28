@@ -1,0 +1,34 @@
+{
+    "appName":"",
+    "AppId":"5820076076281938",
+    "secret":"NUTGIk5rSkG0GCbRrY1SnY9YAzdr7Sqb",
+    "sellerId":"60873335",
+    "mongoDb":{
+        "url":"mongodb://localhost:27017",
+        "database":"mlestadisticas",
+        "usuario":"sebaeze",
+        "password":"ZXCasdqwe123"
+    },
+    "batch":{
+        "intervalo":"3600"
+    },
+    "api":{
+        "puerto":"8000"
+    },
+    "email":{
+        "emailEmpresa":"sebaeze@gmail.com",
+        "emailSoporte":"sebaeze@gmail.com",
+        "emailGateway":"jym.all.graphics.email@gmail.com",
+        "passwordEmailGateway":"qaz11qaz",
+        "nombreMuestraEmailGateway":"Mercadolibre-estadisticas Backend"
+    },
+    "passport":{
+        "mercadolibre":{
+            "clientID": "5820076076281938",
+            "clientSecret": "NUTGIk5rSkG0GCbRrY1SnY9YAzdr7Sqb",
+            "urlLogin": "/mercadolibre",
+            "pathUrlCallback":"/mercadolibre/callback",
+            "callbackURL": "/auth/mercadolibre/callback"
+        }
+    }
+}

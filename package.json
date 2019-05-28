@@ -1,0 +1,23 @@
+{
+  "name": "mercadolibre-busqueda",
+  "version": "1.0.0",
+  "description": "Search engineer in mercadolibre api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sebaeze/mercadolibre-busqueda.git"
+  },
+  "keywords": [
+    "mercadolibre",
+    "search"
+  ],
+  "author": "sebaeze@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sebaeze/mercadolibre-busqueda/issues"
+  },
+  "homepage": "https://github.com/sebaeze/mercadolibre-busqueda#readme"
+}
